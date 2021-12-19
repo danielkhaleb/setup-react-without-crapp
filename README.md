@@ -1,2 +1,2 @@
-# helpme
-Application to help people find services
+# setup react without create react app
+Project helper that will help me to setup new projects
